@@ -1,0 +1,25 @@
+#messages in english
+checking: '&7Player &c{Player} &7is &cchecked!'
+playerIsBeingChecked: |-
+  &7-----------------------
+  &7&lYou are &c&lchecked!
+joinTeamSpeak: '&7Come to TeamSpeak server {teamspeak} &7to channel {channel}!'
+banned: '&7Player {player} &7was banned for &ccheating!'
+logout: '&7Player {player} &7has logged out during &cchecking&7!'
+clear: '&7Player {player} &7is clear!'
+playerClear: '&aYou are clear!'
+logoutBan: '&cLogout &7= ban for {time} &7days!'
+admissionBan: '&cAdmission &7= ban for {time} &7days!'
+noPermissions: '&cNo permssions!'
+playerAlreadyChecking: '&cThis player is already checked!'
+playerNotOnline: '&cYou cannot check player who is offline!'
+banPlayer: "\xa7cNow ban player for specific cheats!"
+notAPlayer: '&cYou must be a player!'
+checkHelp: "&aCommands: \n&b/check player <player> - &6checks player of given nick.\n\
+  &b/check cheats - &6says that player has cheats.\n&b/check clear - &6says\
+  \ that player is clear."
+posHelp: "&aCommands: \n&b/pos player - &6sets player position in checkroom.\n&b/pos\
+  \ admin - &6sets admin position in checkroom."
+playerPosSet: "&7Admin position set here!"
+adminPosSet: "&7Player position set here!"
+checkroomCreated: "&7Checkroom has been created succesfully!"
