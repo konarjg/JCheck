@@ -1,0 +1,29 @@
+name: JCheck
+author: KonarJG
+main: com.konarjg.jcheck.Main
+version: 1.0
+commands:
+  checkroom:
+    usage: /checkroom
+  pos:
+    usage: /pos <podkomenda>
+  check:
+    usage: /check <player>
+  cheats:
+    usage: /cheats <player>
+permissions:
+  jcheck.*:
+    description: gives permission to all JCheck commands!
+  jcheck.check.*:
+      description: gives permission to all check commands!
+  jcheck.check.player:
+    description: gives permission to /check player command!
+  jcheck.check.cheats:
+    description: gives permission to /check cheats command!
+  jcheck.check.clear:
+    description: gives permission to /check clear command!
+  jcheck.checkroom:
+    description: gives permission to /checkroom command!
+  jcheck.pos:
+    description: gives permission to /pos player/admin commands!
+    

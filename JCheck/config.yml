@@ -1,0 +1,12 @@
+#JCheck plugin config!
+#To change messages you have to edit messages.yml file in your plugin folder!
+#Thank you for using my plugin!
+#To change these two variables below you have to use /pos player and /pos admin commands!
+playerLoc:
+adminLoc: 
+#Here are some variables that are needed for plugin to work
+TeamSpeak: ts.JKKHC.eu
+teamspeakChannel: JestemSprawdzany
+logoutBanTime: 10
+admissionBanTime: 2
+logoutBanReasonFormat: '&6Logniecie podczas sprawdzania!'
